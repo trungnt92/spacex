@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0e6ab6240d24888a650770bf718b24, type: 3}
+  m_Name: MissleData
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 924633475924271332, guid: 2d7866ea1def74fcc9b20f7686275a91, type: 3}
